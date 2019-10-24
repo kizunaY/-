@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "spring.datasource",
+      "type": "intretech.jdbc.core.properties.PropertiesEntity",
+      "sourceType": "intretech.jdbc.core.properties.PropertiesEntity"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "intretech.jdbc.core.properties.PropertiesEntity"
+    },
+    {
+      "name": "spring.datasource.password",
+      "type": "java.lang.String",
+      "sourceType": "intretech.jdbc.core.properties.PropertiesEntity"
+    },
+    {
+      "name": "spring.datasource.url",
+      "type": "java.lang.String",
+      "sourceType": "intretech.jdbc.core.properties.PropertiesEntity"
+    },
+    {
+      "name": "spring.datasource.username",
+      "type": "java.lang.String",
+      "sourceType": "intretech.jdbc.core.properties.PropertiesEntity"
+    }
+  ],
+  "hints": []
+}
